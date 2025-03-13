@@ -21,7 +21,7 @@
 <h2>💻 Projects</h2>
 
 - [Alien Against Gravity](https://studio.code.org/projects/gamelab/mgjGCVtw-QZnE4_bp5y3JXOU0MICx9p2NX2X3SC9MUo)
-- [Name](INSERT LINK)
+- [Mage vs Bombs](https://studio.code.org/projects/gamelab/XUAiMOclOYT9WJTNsiXtNRj8XRZfDEZYFJYOiQEm-t8)
 - [Name](INSERT LINK)
 - [Name](INSERT LINK)
 - [Name](INSERT LINK)
