@@ -21,10 +21,10 @@
 <h2>💻 Projects</h2>
 
 - [Alien Against Gravity](https://studio.code.org/projects/gamelab/mgjGCVtw-QZnE4_bp5y3JXOU0MICx9p2NX2X3SC9MUo)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Name](INSERT LINK)
+- [Name](INSERT LINK)
+- [Name](INSERT LINK)
+- [Name](INSERT LINK)
 
 <h2> 🤳 Contact me:</h2>
 
@@ -32,4 +32,4 @@
 [<img align="left" alt="TroyMillican | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/troy_a_millican/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: 
