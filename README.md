@@ -18,7 +18,7 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>💻 Projects</h2>
+<h2>💻 Programming Projects</h2>
 
 - [Alien Against Gravity](https://studio.code.org/projects/gamelab/mgjGCVtw-QZnE4_bp5y3JXOU0MICx9p2NX2X3SC9MUo)
 - [Mage vs Bombs](https://studio.code.org/projects/gamelab/XUAiMOclOYT9WJTNsiXtNRj8XRZfDEZYFJYOiQEm-t8)
